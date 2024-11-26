@@ -1,0 +1,1 @@
+If you're switching to the Nvidia 3080, you might want to wait a little longer, as problems with the capacitor can be related to the overload and instability of the card.

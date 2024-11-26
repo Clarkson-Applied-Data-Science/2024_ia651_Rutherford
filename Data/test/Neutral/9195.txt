@@ -1,0 +1,1 @@
+NVIDIA released a security update for its drivers, fixing several issues that could lead to denial of service, escalation of privileges, or information disclosure. The update covers multiple vulnerabilities affecting both the displa... twib.in/l/L6Rdj89GpLkd via @InfoSecHotSpot https://t.co/qOY2QR2YR2

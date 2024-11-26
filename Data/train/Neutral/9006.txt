@@ -1,0 +1,1 @@
+Those of you that play CS:GO and having stutters there was a beta patch just released that seems to of fixed the issue. If you're on nvidia and you're having stuttering I highly suggest opting into this beta. Right click CSGO -> Properties -> Betas -> nvidia_stutter_fix. Have fun pic.twitter.com/WQfKa0LMXY

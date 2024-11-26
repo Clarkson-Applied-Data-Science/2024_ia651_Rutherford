@@ -1,0 +1,1 @@
+2013: Nation-state malware have breached two US communities. State-state hackers breached networks of dual US municipalities last year, using their CVE-2019-0604 vulnerability in Microsoft SharePoint servers..

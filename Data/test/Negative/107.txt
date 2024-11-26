@@ -1,0 +1,1 @@
+Researchers revealed vulnerabilities in Amazon Alexa that could allow attackers to access personal data and install capabilities on Echo devices.

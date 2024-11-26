@@ -1,0 +1,1 @@
+@ GhostRecon I can no longer see teammates in the TacMap. I have activated the setting, but they do not register.

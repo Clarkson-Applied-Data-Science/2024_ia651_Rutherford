@@ -1,0 +1,1 @@
+Me: *installs my NVIDIA driver across virtual machine*. Me: *wants to get mad at how many steps it takes*. Him: *remembers how much worse that gets in a virtual Linux environment*. Me: *cheerfully does this in Windows and walks on with life*

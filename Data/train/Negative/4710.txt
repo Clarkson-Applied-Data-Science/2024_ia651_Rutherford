@@ -1,0 +1,1 @@
+@AndroidDev I've just noticed an issue while upgrading Android Gradle Memory Plugin from 3. 5. 3 0 up to 3. 6. Chapter 3, the google compile - testing library is crashing when retrieving resources... html An example and many more details that are only available under there :. github. com / glureau / AGP _ 3 _ ….. net Is it something new?

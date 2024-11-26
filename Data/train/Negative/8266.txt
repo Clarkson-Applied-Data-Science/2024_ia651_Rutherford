@@ -1,0 +1,1 @@
+Sneaky... @ microsoft @ Windows has decided to secretly attach its Edge browser to the taskbar at startup (via a Settings help page). No other app would dare to do so. Stop making me use your browser, MS.

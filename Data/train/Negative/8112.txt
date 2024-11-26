@@ -1,0 +1,1 @@
+Microsoft today announcing a large-scale outage. What we  know is outage involves many of Windows web-based apps: email, Teams, OneDrive, Skype, voicemail and other Office 365 support. There is currently no estimated time of restoration.

@@ -1,0 +1,1 @@
+@GhostRecon_UK unable to play because cannot select character at game start screen. The curser id been removed

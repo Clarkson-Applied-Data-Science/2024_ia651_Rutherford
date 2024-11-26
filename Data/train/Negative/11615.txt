@@ -1,0 +1,1 @@
+@ VZWSupport I ported my number to my Verizon account. Phone calls work. SMS is now completely broken. Nothing more in or out that way. My Verizon app is also still broken. Not a great experience so far.

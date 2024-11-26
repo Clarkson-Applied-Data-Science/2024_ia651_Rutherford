@@ -1,0 +1,1 @@
+One All the more reason to not run GeForce Web Experience. although I've had good success with TinyNvidiaUpdateChecker as just an unofficial alternative... info github. web com / Tom ElPumpo / using TinyNv …

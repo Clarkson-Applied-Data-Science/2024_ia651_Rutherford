@@ -1,0 +1,1 @@
+@ GhostRecon is probably a mistake. Can you fix it? Not in the next big update, but just in a quick patch that doesn't work, except in settings worn only on game pads, and it slips between the keyboard and the controller, making it unreproducible.

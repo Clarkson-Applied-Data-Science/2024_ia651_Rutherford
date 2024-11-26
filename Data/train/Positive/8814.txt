@@ -1,0 +1,1 @@
+Well at very least now the drivers can be hooked up to V100 now, thanks to a joint work by Fujitsu and NVIDIA... Who knows what the future holds.

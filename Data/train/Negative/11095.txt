@@ -1,0 +1,1 @@
+@GhostRecon All the backpacks are not fitting properly on the characters torso after the update, will this be fixed?

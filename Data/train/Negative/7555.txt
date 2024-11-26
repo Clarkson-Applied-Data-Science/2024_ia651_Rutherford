@@ -1,0 +1,1 @@
+League of Legends. . Login Attempts Failing. . Posted: January 14, 2020, 1:28 AM GMT+1. . We're aware of a problem causing login attempts to fail and are working on a fix.. . Platforms affected: Windows, macOS

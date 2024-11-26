@@ -1,0 +1,1 @@
+just reinstalled the NVidia drivers using this guide if-not-true-then-false.com / 2015 / fedora-nv... and... no, @ firefox is still gy with @ figma

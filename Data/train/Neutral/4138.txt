@@ -1,0 +1,1 @@
+@ CSGO Found a Dangerzone Bug. 1. Join Dangerzone. 2. Wait until Perk is selected. 4. When the timer is over to select perk quickly click between the two desired perks until the screen fades.. 5. Have 2 Perks at the start of the game

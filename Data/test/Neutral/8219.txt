@@ -1,0 +1,1 @@
+If it just takes "a mater of days" for most developers to recompile their x86 intel based apps for iOS that's significant. I guess Microsoft & Adobe are in the category that takes a bit longer. Happy to hear they're already working on it!

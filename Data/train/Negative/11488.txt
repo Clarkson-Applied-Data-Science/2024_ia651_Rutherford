@@ -1,0 +1,1 @@
+@Rainbow6Game No input is working.. . I can't get past the "press any key" screen. neither controller or mouse/keyboard is recognized? I don't have any other input devices plugged in. Though restarting the computer seems to work, but for the next session the same problem occur

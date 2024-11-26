@@ -1,0 +1,1 @@
+@ PlayHearthstone's latest update to Android has turned battlefields into garbage. Everything is accelerated way too fast, most attack animations don't take place and minions just die, long names of enemies are covered by the icon on the friends list, music is cut off

@@ -1,0 +1,1 @@
+After 10 years without trying it, I set it up.. It works like a charm, the PixelSense screen is fully supported (expect a touch function, but I don't care).

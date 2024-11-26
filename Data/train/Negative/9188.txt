@@ -1,0 +1,1 @@
+If my display only supports Freesync, am I mounted if I want a Nvidia graphics processor?

@@ -1,0 +1,1 @@
+Microsoft is experiencing a large-scale outage. What we do know is that many of its web-based applications are affected: email, teams, OneDrive, Skype, voicemail and other Office 365 services. Currently, there is no estimated time for recovery.

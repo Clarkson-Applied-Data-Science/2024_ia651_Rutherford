@@ -1,0 +1,1 @@
+Microsoft Dynamics 365 Developers / CDS Devs Remember - ExecuteMultipleRequest within Plugins is bad!  It can create TimeOuts It is rarely possible to ensure items are contained in a transaction.

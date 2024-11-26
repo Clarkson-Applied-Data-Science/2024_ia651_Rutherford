@@ -1,0 +1,1 @@
+Winning benchmark bakeoffs is great for marketing, but remember performance != performance/price. As an example, a 1U @Dell C4140 with 4 @nvidia Tesla 4140 completes training RESNET-50 in 154 minutes, ~300x longer than TPUv3 but much much smaller=cheaper.. cloud.google.com/blog/products/…

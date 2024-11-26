@@ -1,0 +1,1 @@
+@ATVIAssist I am having odd performance issues. Sometimes I cant get my fps any part higher than 20fps in game / menu. Tabbed out of game until it even jumps to 60fps. I had no problem before the little update I just inadvertently downloaded. Any ideas yet or any suggestions?.. 2009 Windows 10. 1 Intel i7 in 4790k. NVIDIA GTX Titan Black

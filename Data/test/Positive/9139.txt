@@ -1,0 +1,1 @@
+Everyone: Why training A gan N so heavy.... *nvidia releases StyleGAN 3*: You would train it in just a couple hours.

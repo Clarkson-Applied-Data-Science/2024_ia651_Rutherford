@@ -1,0 +1,1 @@
+@ ATVIAssist hello Activision, I have a problem logging in to my Call of Duty mobile account via Call of Duty. After I enter my email address and password, a black screen will appear for me and it will stay that way and I will not log in, then the login will have timeout.

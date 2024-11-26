@@ -1,0 +1,1 @@
+@Rainbow6Game So I just crashed in-game using the vulkan<unk>, just now whole game didn't launch anymore without crashing.

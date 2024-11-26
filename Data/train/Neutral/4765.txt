@@ -1,0 +1,1 @@
+According to speedtest.net., Google's fiber-optic connection averages 595.4 Mbit / s down and 551.2 Mbit / s up. speedtest.net

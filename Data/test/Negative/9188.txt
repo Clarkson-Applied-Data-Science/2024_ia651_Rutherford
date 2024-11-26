@@ -1,0 +1,1 @@
+when my display files support Freesync, am I screwed until I want to get an Nvidia GPU?

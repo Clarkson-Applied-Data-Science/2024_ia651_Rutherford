@@ -1,0 +1,1 @@
+@ GhostRecon Do we have a plan to fix the crash tests and bugs of the new model? Or will we have to wait for a major content update?

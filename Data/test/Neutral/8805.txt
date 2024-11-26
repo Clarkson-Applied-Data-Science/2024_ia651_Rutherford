@@ -1,0 +1,1 @@
+just ly-installed NVidia drivers -- google guide if-not-true-then-false.com/2015/fedora-nv… But no, @firefox is still laggy with @figma

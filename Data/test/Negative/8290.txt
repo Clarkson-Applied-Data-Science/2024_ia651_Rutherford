@@ -1,0 +1,1 @@
+FBI: Nation-state actors have breached two US municipalities. Nation-state hackers breached networks of two US municipalities last year, using the CVE-2019-0604 vulnerability in Microsoft SharePoint servers..  

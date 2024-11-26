@@ -1,0 +1,1 @@
+Congrats to the NVIDIA Research team for the 1.0.0 release candidate!. Really pleased to see NeMo embracing Hydra as the way to take control over the insane madness that is machine learning! :-)

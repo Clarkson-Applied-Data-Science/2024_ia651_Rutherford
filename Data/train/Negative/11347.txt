@@ -1,0 +1,1 @@
+@Rainbow6Game fix random pick when someone is joining into an on lan match so it picks an character they actually use on the map because about 75% of is an NPC I do not use because they play terrible on that map like Castle on wine cellar on Chalet on bomb.

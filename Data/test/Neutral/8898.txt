@@ -1,0 +1,1 @@
+Ubuntu freezes after resume from susopend/hibernate in 10-15 sec askubuntu.com/questions/1247…  

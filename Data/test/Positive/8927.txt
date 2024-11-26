@@ -1,0 +1,1 @@
+Thanks to the partnership between VMware & Nvidia - aka v 4 - organizations can run compute-intensive processes such as

@@ -1,0 +1,1 @@
+OMG. I finally managed to get my Nvidia/Intel Optimus setup working on Ubuntu. The external screen works. There is no screen tearing. Amazeballs. I have no idea how I did that but this year will the  year of the Linux desktop!!1

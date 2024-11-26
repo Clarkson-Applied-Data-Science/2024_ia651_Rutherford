@@ -1,0 +1,1 @@
+Hi, I'm still a first time user. I'r ve just had some technical problems getting h264 hardware acceleration working on Firefox 80 with Intel Nvidia proprietary drivers ( with 10xx series C GPU ). 5 What should I actually do? 1 ift. w tt / 3iVUb46

@@ -1,0 +1,1 @@
+@Ubisoft are there plans to fix the slide mechanic in GR:Breakpoint. Dude goes into a full slide going down a driveway, it's quite annoying. I understand steep inclines, but the mechnic seems to trigger on any incline the player is standing up on (not crouching).  

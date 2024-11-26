@@ -1,0 +1,1 @@
+@ GhostRecon @ Ubisad.Support hi. I've been trying to download version of ghostRecon 1.30 for about a week. This is about the 4th version I tried to download, but it always either hangs or returns an error.

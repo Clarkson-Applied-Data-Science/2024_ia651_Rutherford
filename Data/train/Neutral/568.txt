@@ -1,0 +1,1 @@
+@PlayApex you got a bug when a game ranked is ended, my friend get 10 min penality and he dont leave the game .
