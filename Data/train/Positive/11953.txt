@@ -1,1 +1,0 @@
-Verizon's shift to virtualized network functions enabled the agility to scale capacity of critical network services. The move to 5G & cloud native networks will drive the next wave of innovation which has always been part of Verizon's DNA. Great session today @redhat Summit.

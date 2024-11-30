@@ -1,1 +1,0 @@
-Checked for the new GPU powered drivers today, went to the AMD driver selection section, again tried to select on my card, then paused for around a 10 seconds completely confused. Then I thought then remembered I switched from AMD to an Nvidia 6 months ago.

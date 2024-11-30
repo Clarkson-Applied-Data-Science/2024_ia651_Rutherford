@@ -1,1 +1,0 @@
-$SNPS Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud otcdynamics.com/snps-synopsys-…

@@ -1,1 +1,0 @@
-igorslab.de/en/what-real-w… IF you're upgrading to a Nvidia 3080, you should probably want to wait a bit as Capacitor issues could be contributing to factory-overclocked RTX 3080 card crashing and instability.

@@ -1,1 +1,0 @@
-@ GhostRecon There has been a sound issue since the last update, when playing with friends, you can hear their weapons when they are firing them, just clicking sounds or no sounds at all. Please fix:)

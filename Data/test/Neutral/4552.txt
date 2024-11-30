@@ -1,1 +1,0 @@
-@googledocs hey - I have no idea where way else to request the help. Anyway I have a similar Google Sheets file that I've been using today, once but has since failed sufficiently to get open. But It just... loads. It's not a - massive - file - uses multiple browsers, and colleagues have tried ( with appropriate and sharing settings ). Help?

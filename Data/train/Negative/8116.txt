@@ -1,1 +1,0 @@
-Worse security news for Microsoft: 250 million customer service records, including dialog text, IP addresses, e-mail, location, and more, were stored in a completely unsecured database that can be found online, and no password is required. o.ly / iXeH30qbPhd

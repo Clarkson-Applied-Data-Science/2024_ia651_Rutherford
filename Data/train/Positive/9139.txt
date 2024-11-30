@@ -1,1 +1,0 @@
-Everyone: Why training style gan is so slow.... *nvidia releases StyleGAN 3*: You can train it in within a couple hours.

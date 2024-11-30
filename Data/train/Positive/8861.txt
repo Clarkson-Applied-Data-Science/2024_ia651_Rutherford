@@ -1,1 +1,0 @@
-@ Afvision after the new 30GB patch COD MW breaks down in every game and I return to the desktop - without any error messages.. I paid $50 for it. And even before I had it, cleaning Nvidia's resume folder was useful. But now nothing will fix it every game that gives it out unreproducible.

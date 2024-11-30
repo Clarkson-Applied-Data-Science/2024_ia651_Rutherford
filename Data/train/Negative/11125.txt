@@ -1,1 +1,0 @@
-@ UbisoftSupport I can't login to @ GhostRecon Breakpoint. I just did an internet test and my internet is working. It says it connects me to Ubisoft servers, but then it will say that an error has occurred. Error code WHALERS-00303.

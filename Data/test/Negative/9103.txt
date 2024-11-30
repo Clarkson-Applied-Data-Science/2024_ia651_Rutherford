@@ -1,1 +1,0 @@
-@nvidia Hey, I have GTX 4 and this am experiencing low fps while gaming and streaming images using nvenc and encode stream

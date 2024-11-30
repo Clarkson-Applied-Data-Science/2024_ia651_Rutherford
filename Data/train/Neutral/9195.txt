@@ -1,1 +1,0 @@
-NVIDIA released another software update for its drivers, fixing several issues that could lead to denial of permissions, escalation of privileges, or information disclosure. The update addresses multiple vulnerabilities affecting both the products twib.in/l/L6Rdj89GpLkd X @InfoSecHotSpot https://t.co/qOY2QR2YR2]

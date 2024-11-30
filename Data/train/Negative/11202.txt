@@ -1,1 +1,0 @@
-@Rainbow6Game interface with matchmaking on PC

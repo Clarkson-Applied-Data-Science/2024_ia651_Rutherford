@@ -1,1 +1,0 @@
-@GhostRecon this must be a bug. Can you please fix?  And not in the next big update, just a quick patch,  when using controller it doesn’t except in settings putting on game pad only and it glitches between keyboard and controller.  Makes it unplayable

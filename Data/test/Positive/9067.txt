@@ -1,1 +1,0 @@
-If it requires ARM, what I want to see is really.LITTLE graphics capability where certain apps were handled by a very low power ARM GPU on the same board as the USB GPU for other programs. This way at idle, the printer uses very low power and generates virtually no memory with fans and.

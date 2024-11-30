@@ -1,1 +1,0 @@
-@ Rainbow6Game No input works... I can't get past the "press any key" screen. Neither the controller nor the mouse / keyboard is recognized? I don't have any other input devices connected.

@@ -1,1 +1,0 @@
-Looks as we're all switching to AMD gpu's this fall because nvidia can't produce more than Mali 3080's for North America

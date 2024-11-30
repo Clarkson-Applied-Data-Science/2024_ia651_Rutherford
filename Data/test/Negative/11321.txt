@@ -1,1 +1,0 @@
-@Rainbow6Game So mine just crashed in-game using the json api, and now my game can't launch anymore without crashing.

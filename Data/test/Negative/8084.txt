@@ -1,1 +1,0 @@
-i've been using typescript for 30 minutes and i'm already caught between two different syntax forms which appear to be the only way of accomplishing what i want but both cause different error messages. . so, definitely a microsoft product

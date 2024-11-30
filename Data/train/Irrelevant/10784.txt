@@ -1,1 +1,0 @@
-You won't understand why you're doing it on Swift; there will be too many acronyms.

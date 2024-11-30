@@ -1,1 +1,0 @@
-If @nvidia acquires ARM, what I want to see is big.LITTLE graphics cards where desktop apps are handled by a very low power ARM GPU on the same board as the RTX GPU for other programs. This way at idle, the GPU uses very low power and generates virtually no heat with fans off.

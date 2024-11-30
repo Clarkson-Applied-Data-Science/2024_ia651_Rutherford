@@ -1,1 +1,0 @@
-Microsoft: RDP attacks last on average 2-3 days.

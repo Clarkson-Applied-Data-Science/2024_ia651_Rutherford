@@ -1,1 +1,0 @@
-2025: GPT5 added to video calls, you start the call and leave it until the end. 2037: notification: "you made the call. That was good."

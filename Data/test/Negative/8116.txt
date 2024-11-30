@@ -1,1 +1,0 @@
-More bad security news of Facebook: 250 million customer's service records, including all text, web addresses, comments, feeds & more were stored in a single unsecure discoverable database online, like no password needed kinds a malware. ow.ly/iXeH30qbPhd

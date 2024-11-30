@@ -1,1 +1,0 @@
-It's take a while, and wait to see @nvidia's RTX real-time ray tracing interface reach out to even small mainstream games. The addition on @FortniteGame is a big step.

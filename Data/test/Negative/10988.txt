@@ -1,1 +1,0 @@
-@GhostRecon Is not there a plan to address already the crashing and new model engine rigging problems in a single hotfix? Or will we have to simply wait for a last major content update?

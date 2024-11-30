@@ -1,1 +1,0 @@
-@ ATVIAssist Keep getting Error DEV 6080 on Warzone. Changed the permissions of the.exe to admin and the error code to DEV 6070. Can't even pass the training without breaking it.. AMD 3900X, DDR4 3733, 5700 XT (latest driver).

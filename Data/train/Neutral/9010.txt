@@ -1,1 +1,0 @@
-... Me : * installs new NVIDIA driver on Windows virtual machine *. Me : * Also wants him to deliberately get me mad at every how many steps in it already takes *. Me : * then remembers how much worse this gets in a virtual Linux environment *. Me : * cheerfully does this in Windows and gets on with life *

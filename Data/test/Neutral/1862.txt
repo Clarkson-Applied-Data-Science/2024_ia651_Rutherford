@@ -1,1 +1,0 @@
-the problem was demo saving (bo4 esp) and not only that, the killfeed was integrated into the user interface that was not timebound - treyarch even patched the only solution. Hopefully, it will be better this year as it is not based on the user interface.

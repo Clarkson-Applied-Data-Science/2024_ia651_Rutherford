@@ -1,1 +1,0 @@
-Ubuntu 10.04 clean install but can't login (RTX 2060 Super) facebook.com/questions/1232…

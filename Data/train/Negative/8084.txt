@@ -1,1 +1,0 @@
-i've been using my typescript analysis for 30 minutes and i'm already caught in between two really different syntax forms which appear to to be the only way though of accomplishing what that i want but also both cause different error messages.. so, definitely using a microsoft source product

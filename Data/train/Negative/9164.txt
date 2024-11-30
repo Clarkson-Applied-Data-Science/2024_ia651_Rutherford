@@ -1,1 +1,0 @@
-can someone please tell me what is NvModuleTracker and how to stop it from failure when im downloading a new nvidia driver because whenever i download geforce experience alone it fails

@@ -1,1 +1,0 @@
-@CSGO<unk> a Dangerzone Bug. 1. Join a Game of Dangerzone. 2. Wait until Perk expires. 4. When the Timer is out to select a perk quickly switching between both for the desired players while the screen fades out.. 5. Have 2 Perks and all start of this Game

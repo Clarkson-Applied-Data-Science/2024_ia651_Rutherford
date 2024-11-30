@@ -1,1 +1,0 @@
-@DOTA2 @Steam  queue for match -> accept found match -> game shows me the reconnect/abandon option but nothing happens when I try to reconnect for ~1min then kicks me out and disables my matchmaking 🤔

@@ -1,1 +1,0 @@
-Malicious documents are not new threats, Microsoft 365 Safe Documents actively identifies threats and warns users about harmful content.

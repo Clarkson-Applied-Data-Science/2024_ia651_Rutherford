@@ -1,1 +1,0 @@
-@UbisoftSupport<unk> Hey, when playing games and software my controller keeps interfering with my keyboard causing my controller inputs to mess up. Is there anyway to disable the inputs from my own controller?

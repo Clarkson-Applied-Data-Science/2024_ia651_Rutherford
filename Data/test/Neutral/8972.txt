@@ -1,1 +1,0 @@
-since now am having strange performance issue. I cannot get my fps out higher than 20fps on game/menu. Tabbed out of application it jumps into 60fps. I had no worries before the little update I just downloaded. Any ideas or suggestions?.. Windows 10. Intel i7 4790k. NVIDIA GTX Titan Black

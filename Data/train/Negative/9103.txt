@@ -1,1 +1,0 @@
-@nvidia Hey, I actually have GTX 950M support and I am even experiencing constant low fps while gaming and streaming files while using nvenc to encode stream

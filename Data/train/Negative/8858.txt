@@ -1,1 +1,0 @@
-i just had a freakout moment because @nvidia new drivers fucking suck and wouldnt let me go fullscreen. turns out after 6 whole hours of searching i found out they changed the aspect ratio and it wasnt set to fullscreen.. fix your shit @NVIDIAGeForce

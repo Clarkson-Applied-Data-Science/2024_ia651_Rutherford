@@ -1,1 +1,0 @@
-@ DOTA2 @ Steam queue for match - > find match accept - > game shows me the option reconnect / abandon, but nothing happens if I try to reconnect for about 1min, then throw me out and deactivate my matchsearch.
