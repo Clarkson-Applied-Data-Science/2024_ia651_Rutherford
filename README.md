@@ -95,13 +95,17 @@ Mertics Used
 - Accuracy, Recall, Precision, f1 score, binary accuracy were all used but f1 score was held in the highest regard.
 
 ![alt text](pics/Pic6.png)
+
 Shows the validation and training loss for the neural network
 
 Confusion Matrix
 
 Neural Network
+
 ![alt text](pics/Pic7.png)
+
 Pretrained transformer
+
 ![alt text](pics/Pic8.png)
 
 Examples
