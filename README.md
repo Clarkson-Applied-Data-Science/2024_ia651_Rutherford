@@ -1,1 +1,123 @@
 # 2024_ia651_Rutherford
+
+# The Dataset
+
+-Motivation
+
+The dataset was selected because I wanted to examine the effect that more dramatic language has on sentiment analysis.
+
+-Situation
+
+The dataset consists of tweets so it is largely based on social media communication.
+
+-Language Variety
+
+The dataset consists of tweets from the United States which are all in English.
+
+-Speaker Demographics
+
+The Demographics are unclear but given the context of the tweets which mostly surround internet topics like video games and tech companies it is fair to assume that the population is younger.
+
+-Collection
+
+The data consists of 74682 rows and four colunms.
+
+-Distribution
+
+The data was uptained from Kaggle and is updated for public use.
+
+![alt text](pics/Pic1.PNG)
+
+# Goal for the Project
+
+- Clean the data so that analysis is possible.
+- Develop a logistic regression model for sentiment classification.
+- Develop a Neural Network for sentiment classification.
+- Develop a pre trained transformer model for sentiment classification.
+
+This model is not designed for use outside of a learning exersize.
+
+# Design Process
+
+Started with data analysis which caused two changes in my plan for the project.
+- the first being a move away from combining categories and sentiments from the dataset.
+- The second was combining the irrelevant and  neutral sentiments as they are largely the same thing.
+
+![alt text](pics/Pic2.PNG)
+This shows 
+- the largest catogories
+- Sentiments and the amounts
+- Most commen words
+- The number of unique words
+
+Then I started to design the logisitic regression and had no problems got good results.
+
+After was the neural network which took abit longer to get up and running but also worked fine.
+
+Finally was the pretrained transformer for compairison which presented a time problem.
+- First I had to change the size of my dataset and so I revisited the original data and found that each tweet ID had six rows and all the tweets were the same with some diffrences.
+- Second I cut down the data used in the training of the model to 12,000 which is the number of unque tweets present in the dataset.
+- But, that wasnt enough either so I cut it down to 1500 with an even number of sentiments 500 Positive, Neutral, Negative and this allowed for the training to be done in a reasonable time.
+
+# EDA
+Inputs/Target Variables
+- Sentiments and Comments(Tweets)
+  
+Was the data imbalanced
+- The data was imbalanced but that was change through selecting a set number of each sentiment
+  
+Embeddings
+- The NeuralNetwork used an embedding layer and the Transformer used distilbert-base-uncased
+  
+Cleaning
+- All of the models used No_Stop_Words_Lemmatized text
+
+![alt text](pics/Pic4.PNG)
+
+- This was determined after I tested 16 possible combinations for the logistic regression and foud that No_Stop_Words_Lemmatized was the best option (see graph below)
+
+![alt text](pics/Pic5.PNG)
+
+# Model Fitting
+Train/Test Split
+
+![alt text](pics/Pic3.PNG)
+
+Which model did you select and why
+- I tried 3 diffrent models all of which do well with sentiment analysis.
+- Logistic regression was the model I chose which was taught before the mid term.
+- The neural network used an Embedding layer, two dropout layers, Global Ave Pooling 1D layer, Dense layer 30 neurons and a output layer of 1 with sigmoid activation. The transforer was pretrained distilbert-base-uncased and used Adam(learning_rate=5e-5) for an optimizer along with a SparseCategoricalCrossentropy using logits for loss.
+
+What was the process for hyper parameter selection
+- The logistic regression used crossfold validation with cv = 10 and scoring of f1 macro.
+
+Mertics Used
+- Accuracy, Recall, Precision, f1 score, binary accuracy were all used but f1 score was held in the highest regard.
+
+![alt text](pics/Pic6.PNG)
+Shows the validation and training loss for the neural network
+
+Confusion Matrix
+
+Neural Network
+![alt text](pics/Pic7.PNG)
+Pretrained transformer
+![alt text](pics/Pic8.PNG)
+
+Examples
+Photo
+Photo
+
+Synthesized Examples
+Photo
+Photo
+
+Overfitting
+- Model has a problem with over fitting and I have attempted to mitigate that by implimenting Early stopping with patience 10 for the neural network.
+
+Going Further
+- This model requires more sentiments and thus more time to train as the data is very simiar to each other as shown in the graphs below.
+
+![alt text](pics/Pic9.PNG)
+![alt text](pics/Pic10.PNG)
+
