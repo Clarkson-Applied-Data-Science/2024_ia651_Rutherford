@@ -26,7 +26,7 @@ The data consists of 74682 rows and four colunms.
 
 The data was uptained from Kaggle and is updated for public use.
 
-![alt text](pics/Pic1.PNG)
+![alt text](pics/Pic1.png)
 
 # Goal for the Project
 
@@ -43,7 +43,7 @@ Started with data analysis which caused two changes in my plan for the project.
 - the first being a move away from combining categories and sentiments from the dataset.
 - The second was combining the irrelevant and  neutral sentiments as they are largely the same thing.
 
-![alt text](pics/Pic2.PNG)
+![alt text](pics/Pic2.png)
 This shows 
 - the largest catogories
 - Sentiments and the amounts
@@ -72,16 +72,16 @@ Embeddings
 Cleaning
 - All of the models used No_Stop_Words_Lemmatized text
 
-![alt text](pics/Pic4.PNG)
+![alt text](pics/Pic4.png)
 
 - This was determined after I tested 16 possible combinations for the logistic regression and foud that No_Stop_Words_Lemmatized was the best option (see graph below)
 
-![alt text](pics/Pic5.PNG)
+![alt text](pics/Pic5.png)
 
 # Model Fitting
 Train/Test Split
 
-![alt text](pics/Pic3.PNG)
+![alt text](pics/Pic3.png)
 
 Which model did you select and why
 - I tried 3 diffrent models all of which do well with sentiment analysis.
@@ -94,15 +94,15 @@ What was the process for hyper parameter selection
 Mertics Used
 - Accuracy, Recall, Precision, f1 score, binary accuracy were all used but f1 score was held in the highest regard.
 
-![alt text](pics/Pic6.PNG)
+![alt text](pics/Pic6.png)
 Shows the validation and training loss for the neural network
 
 Confusion Matrix
 
 Neural Network
-![alt text](pics/Pic7.PNG)
+![alt text](pics/Pic7.png)
 Pretrained transformer
-![alt text](pics/Pic8.PNG)
+![alt text](pics/Pic8.png)
 
 Examples
 Photo
@@ -118,6 +118,5 @@ Overfitting
 Going Further
 - This model requires more sentiments and thus more time to train as the data is very simiar to each other as shown in the graphs below.
 
-![alt text](pics/Pic9.PNG)
-![alt text](pics/Pic10.PNG)
-
+![alt text](pics/Pic9.png)
+![alt text](pics/Pic10.png)
