@@ -100,6 +100,10 @@ Shows the validation and training loss for the neural network
 
 Confusion Matrix
 
+Logistic Regression
+
+![alt text](pics/Pic14.png)
+
 Neural Network
 
 ![alt text](pics/Pic7.png)
@@ -109,12 +113,43 @@ Pretrained transformer
 ![alt text](pics/Pic8.png)
 
 Examples
-Photo
-Photo
+1st:
+
+![alt text](pics/Pic11.png)
+
+![alt text](pics/Pic12.png)
+
+Logistic Regression
+
+![alt text](pics/Pic13.png)
+
+NeuralNetwork
+
+![alt text](pics/Pic15.png)
+
+Pretrained Transformer
+
+![alt text](pics/Pic19.png)
 
 Synthesized Examples
-Photo
-Photo
+
+"This is the best model ever."
+
+"This is the worst model ever."
+
+"I have seen better models but this one is okay."
+
+Logistic Regression
+
+![alt text](pics/Pic16.png)
+
+NeuralNetwork
+
+![alt text](pics/Pic17.png)
+
+Pretrained Transformer
+
+![alt text](pics/Pic18.png)
 
 Overfitting
 - Model has a problem with over fitting and I have attempted to mitigate that by implimenting Early stopping with patience 10 for the neural network.
