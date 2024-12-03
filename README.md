@@ -45,23 +45,23 @@ Started with data analysis which caused two changes in my plan for the project.
 
 ![alt text](pics/Pic2.png)
 This shows 
-- the largest catogories
+- the largest categories
 - Sentiments and the amounts
 - Most commen words
 - The number of unique words
 
-Then I started to design the logisitic regression and had no problems got good results.
+Then I started to design the logisitic regression and I had no problems which led to good results.
 
-After was the neural network which took abit longer to get up and running but also worked fine.
+After that I started the neural network which took abit longer to get up and running but also works fine.
 
 Finally was the pretrained transformer for compairison which presented a time problem.
 - First I had to change the size of my dataset and so I revisited the original data and found that each tweet ID had six rows and all the tweets were the same with some diffrences.
 - Second I cut down the data used in the training of the model to 12,000 which is the number of unque tweets present in the dataset.
-- But, that wasnt enough either so I cut it down to 1500 with an even number of sentiments 500 Positive, Neutral, Negative and this allowed for the training to be done in a reasonable time.
+- But, that wasnt enough either so I cut it down to 1500 with an even number of sentiments 500 Positive, Neutral and Negative and this allowed for the training to be done in a reasonable time.
 
 # EDA
 Inputs/Target Variables
-- Sentiments and Comments(Tweets)
+- Sentiments and Comments (Tweets)
   
 Was the data imbalanced
 - The data was imbalanced but that was change through selecting a set number of each sentiment
@@ -113,7 +113,6 @@ Pretrained transformer
 ![alt text](pics/Pic8.png)
 
 Examples
-1st:
 
 ![alt text](pics/Pic11.png)
 

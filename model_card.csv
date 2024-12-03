@@ -1,17 +1,17 @@
 ,Lemmatized,stop_words,binarized,n_gram,mean_f1,median_f1,std_f1,total_fit_time,test_f1,scenario
-1,Is_Lemmatized,Not_Included,Yes,1,0.623312415307814,0.6203565807037446,0.01349756833161849,4.098107099533081,0.0,Is_Lemmatized Stop Words Not Included Is Binarized Is 1ngram
-2,Is_Lemmatized,Not_Included,Yes,1,0.6150228821210131,0.6125275184631739,0.0150859822954858,3.3317413330078125,0.0,Is_Lemmatized Stop Words Not Included Is Binarized Is 1ngram
-3,Is_Lemmatized,Not_Included,Yes,1,0.6146365877146359,0.6142839509920781,0.00999469060808449,3.0786523818969727,0.0,Is_Lemmatized Stop Words Not Included Is Binarized Is 1ngram
-4,Is_Lemmatized,Not_Included,Yes,1,0.6251021763101956,0.618516453286313,0.010909014252672669,4.197185516357422,0.0,Is_Lemmatized Stop Words Not Included Is Binarized Is 1ngram
-5,Is_Lemmatized,Not_Included,No,1,0.6236152485229859,0.6230194516870333,0.012281036471906393,4.748242378234863,0.0,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 1ngram
-6,Is_Lemmatized,Not_Included,No,1,0.6109875700999844,0.6110152782570428,0.013045041826478684,3.2484309673309326,0.0,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 1ngram
-7,Is_Lemmatized,Not_Included,No,1,0.6144938586854658,0.6111233643740026,0.009314646435376347,3.1019763946533203,0.0,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 1ngram
-8,Is_Lemmatized,Not_Included,No,1,0.6195957539363944,0.620320026070104,0.011556151637717758,4.939904689788818,0.0,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 1ngram
-9,Is_Lemmatized,Not_Included,Yes,2,0.6343054105683039,0.6406430269139802,0.013016934745172022,15.068808555603027,0.0,Is_Lemmatized Stop Words Not Included Is Binarized Is 2ngram
-10,Is_Lemmatized,Not_Included,Yes,2,0.6267644428217889,0.6237811403526748,0.011765414717637103,12.872718095779419,0.0,Is_Lemmatized Stop Words Not Included Is Binarized Is 2ngram
-11,Is_Lemmatized,Not_Included,Yes,2,0.6311367472824013,0.6320479146655525,0.00813578514637007,12.319521427154541,0.0,Is_Lemmatized Stop Words Not Included Is Binarized Is 2ngram
-12,Is_Lemmatized,Not_Included,Yes,2,0.6328780398107947,0.6375168796242197,0.014154367688638037,16.428911447525024,0.0,Is_Lemmatized Stop Words Not Included Is Binarized Is 2ngram
-13,Is_Lemmatized,Not_Included,No,2,0.6357103473166674,0.6405334333514392,0.012063085829214873,16.875160217285156,0.0,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 2ngram
-14,Is_Lemmatized,Not_Included,No,2,0.6293063253794168,0.6278715750809325,0.010151043028638985,12.48410940170288,0.0,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 2ngram
-15,Is_Lemmatized,Not_Included,No,2,0.6341588828871152,0.6334100791423846,0.00540289919646266,12.03904104232788,0.0,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 2ngram
-16,Is_Lemmatized,Not_Included,No,2,0.6319863052373436,0.6349271884758336,0.0102339425002266,17.66905927658081,0.0,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 2ngram
+1,Is_Lemmatized,Not_Included,Yes,1,0.8421383468664612,0.8417113229308996,0.006002423228402333,21.16803741455078,0.8497239354538638,Is_Lemmatized Stop Words Not Included Is Binarized Is 1ngram
+2,Is_Lemmatized,Not_Included,Yes,1,0.8482973324749672,0.8479223987999857,0.0034062880640760842,15.891391515731812,0.857931973658947,Is_Lemmatized Stop Words Not Included Is Binarized Is 1ngram
+3,Is_Lemmatized,Not_Included,Yes,1,0.8387619453020353,0.8392285782751949,0.004832445364613324,14.714664220809937,0.8482647487363857,Is_Lemmatized Stop Words Not Included Is Binarized Is 1ngram
+4,Is_Lemmatized,Not_Included,No,1,0.8434955813794802,0.843805286297947,0.005155547858682498,33.60050940513611,0.8502410075563646,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 1ngram
+5,Is_Lemmatized,Not_Included,No,1,0.8475113323835961,0.8472073109352409,0.004688165299671149,24.572386741638184,0.8564630883452787,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 1ngram
+6,Is_Lemmatized,Not_Included,No,1,0.8401543726815242,0.8405426248936043,0.004865933521013142,24.463512420654297,0.8481659166944624,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 1ngram
+7,Is_Lemmatized,Not_Included,Yes,2,0.9123597035071007,0.912033646617318,0.00459275837828939,78.4448881149292,0.9175837277430596,Is_Lemmatized Stop Words Not Included Is Binarized Is 2ngram
+8,Is_Lemmatized,Not_Included,Yes,2,0.9094384660783126,0.9092149844349198,0.003856905565787324,62.45362067222595,0.9148067169149255,Is_Lemmatized Stop Words Not Included Is Binarized Is 2ngram
+9,Is_Lemmatized,Not_Included,Yes,2,0.9081068336943732,0.9070959001014345,0.004316650293742236,60.32146883010864,0.9153791373088618,Is_Lemmatized Stop Words Not Included Is Binarized Is 2ngram
+10,Is_Lemmatized,Not_Included,No,2,0.9115887166488464,0.9108054508627531,0.004994976848431986,160.4761447906494,0.9163910458575169,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 2ngram
+11,Is_Lemmatized,Not_Included,No,2,0.9095879114784029,0.9093235966829076,0.0036961429942780916,121.36917233467102,0.915233546895132,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 2ngram
+12,Is_Lemmatized,Not_Included,No,2,0.9074296190094469,0.9073782152822432,0.00452859727701208,124.81304812431335,0.9165675426062231,Is_Lemmatized Stop Words Not Included Isn't Binarized Is 2ngram
+13,,,,,,,,,,
+14,,,,,,,,,,
+15,,,,,,,,,,
+16,,,,,,,,,,
